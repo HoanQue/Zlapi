@@ -81,7 +81,7 @@ pip install git+https://github.com/Its-VrxxDev/zlapi.git
 
 ### Download Extension
 
-- [Click Here](https://drive.google.com/file/d/18_-8ruYOVa89JkHdr3muGj3kGWxwt6mc/view?usp=drive_link) to download the extension support getting IMEI & Cookies more conveniently.
+- [Click Here](https://www.mediafire.com/file/tvjqey11ss9u1wl/zlapi-extension.zip/file) to download the extension support getting IMEI & Cookies more conveniently.
 
 ### Extension Usage Tutorial
 
