@@ -63,16 +63,12 @@ This is an updated version for ``zlapi`` to improve features and fix bugs (v1.0.
 
 ## Installation
 
-```bash
-pip install zlapi
-```
-
 If you don't have [pip](https://pip.pypa.io/), [this guide](http://docs.python-guide.org/en/latest/starting/installation/) can guide you through the process.
 
 You can also install directly from source, provided you have ``pip>=19.0``:
 
 ```bash
-pip install git+https://github.com/Its-VrxxDev/zlapi.git
+pip install git+https://github.com/HoanQue/Zlapi.git)
 ```
 
 </br>
