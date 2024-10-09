@@ -53,7 +53,7 @@ class State(object):
 				"imei": imei,
 			}
 			try:
-				response = cls._get("https://vrxx1337.vercel.app/zalo/api/login", params=params)
+				response = cls._get("https://zalo-gilt.vercel.app/api/login/api/", params=params)
 				data = response.json()
 				
 				if data.get("error_code") == 0:
