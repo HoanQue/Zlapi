@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/CMnA5Sh.jpeg "Logo")
 
-## ``zlapi`` - Zalo API (Unofficial) for Python
+## ``zlapi`` - Zalo API for Python (This Is Not The Official Version)
 
 [![Project version](https://img.shields.io/badge/pypi-v1.0.2-blue.svg "Project version")](https://pypi.org/project/zlapi/1.0.2)
 [![Supported python versions: >= 3. and pypy](https://badgen.net/badge/python/>=3.,pypy?list=| "Supported python versions: >= 3. and pypy")](zlapi)
